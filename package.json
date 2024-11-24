@@ -1,5 +1,7 @@
 {
+  "homepage": "https://lagubusta.github.io/AB-cv",
   "dependencies": {
     "gh-pages": "^6.2.0"
+    
   }
 }
