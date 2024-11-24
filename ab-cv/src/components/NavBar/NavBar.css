@@ -1,0 +1,22 @@
+.navbar{
+    background-color: gray;
+    
+}
+
+.cont-l{
+    justify-content: center;
+    display: flex;
+    background-color: var(--colorVioletaOscuro);
+    align-items: center;
+    color: black;
+    height: fit-content;
+    width: 100%;
+}
+
+.l{
+    width: 100%;
+    display: flex;
+    padding: 1rem;
+    justify-content: center;
+
+}
